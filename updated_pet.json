@@ -1,0 +1,15 @@
+{
+  "id": $ID$,
+  "name": "cat",
+  "photoUrls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/June_odd-eyed-cat.jpg/737px-June_odd-eyed-cat.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/June_odd-eyed-cat.jpg/590px-June_odd-eyed-cat.jpg"
+  ],
+  "tags": [
+    {
+      "id": 656,
+      "name": "cat"
+    }
+  ],
+  "status": "sold"
+}

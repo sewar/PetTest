@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'io.rest-assured:rest-assured:4.3.0'
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'io.rest-assured:json-path:4.3.0'
+    testImplementation 'commons-io:commons-io:2.6'
+}
